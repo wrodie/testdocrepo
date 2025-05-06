@@ -27,7 +27,11 @@
 ## New Sub Directory/Group
 
 * [Page 1](new-sub-directory-group/page-1.md)
-* [Page 3](new-sub-directory-group/page-3.md)
+* [Page 3](new-sub-directory-group/page-3/README.md)
+  * [Sub Page 6](new-sub-directory-group/page-3/sub-page-6/README.md)
+    * [Sub Sub Pag6](new-sub-directory-group/page-3/sub-page-6/sub-sub-pag6/README.md)
+      * [Sub Sub Sub Page 6](new-sub-directory-group/page-3/sub-page-6/sub-sub-pag6/sub-sub-sub-page-6.md)
+  * [Sub Page 7](new-sub-directory-group/page-3/sub-page-7.md)
 
 ## AA
 
