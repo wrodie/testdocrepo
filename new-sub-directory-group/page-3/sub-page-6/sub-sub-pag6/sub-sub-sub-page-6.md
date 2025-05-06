@@ -8,6 +8,10 @@
 
 [images-and-media.md](../../../../basics/images-and-media.md "mention")
 
+{% content-ref url="../../../../getting-started/quickstart.md" %}
+[quickstart.md](../../../../getting-started/quickstart.md)
+{% endcontent-ref %}
+
 {% tabs %}
 {% tab title="JavaScript" %}
 ```javascript
