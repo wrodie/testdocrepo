@@ -36,3 +36,16 @@
 ## AA
 
 * [Page 5](aa/page-5.md)
+
+***
+
+* ```yaml
+  type: builtin:openapi
+  props:
+    models: true
+  dependencies:
+    spec:
+      ref:
+        kind: openapi
+        spec: warren-api
+  ```
