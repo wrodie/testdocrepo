@@ -4,7 +4,7 @@
 
 {% embed url="https://www.youtube.com/watch?v=sSWxWw7CWCM" %}
 
-<figure><img src="../../../../.gitbook/assets/funny-farm-animals-01.jpg" alt="Alt text for cow image"><figcaption><p>Image Caption</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/funny-farm-animals-01.jpg" alt="Alt text for cow image" width="188"><figcaption><p>Image Caption</p></figcaption></figure>
 
 [images-and-media.md](../../../../basics/images-and-media.md "mention")
 
